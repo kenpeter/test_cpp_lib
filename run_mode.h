@@ -1,0 +1,1 @@
+extern WiFiClient client;
