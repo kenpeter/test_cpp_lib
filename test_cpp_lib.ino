@@ -1,3 +1,4 @@
+#include <WiFiClient.h>;
 #include "run_mode.h";
 #include "mqtt.h";
 
