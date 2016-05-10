@@ -1,3 +1,5 @@
-extern WiFiClient client;
+#include <WiFiClient.h>
 
-// do something with client
+// need to extern
+// also need the wifi client lib
+extern WiFiClient client;
